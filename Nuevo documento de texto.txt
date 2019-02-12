@@ -1,0 +1,2 @@
+This folder is an example of d3.js barchart with average raining data in Málaga (Spain).
+
